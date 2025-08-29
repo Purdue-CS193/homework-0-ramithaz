@@ -2,5 +2,5 @@
 
 - the lecturers are super cool
 - we get to learn useful tools for CS
-``` - no exams!!! ```
+- ```no exams!!!```
 
